@@ -1,0 +1,5 @@
+* [Home](/)
+* [Sale](sale.md)
+* [Storage](storage.md)
+* [Finance](finance.md)
+* [Report](report.md)
