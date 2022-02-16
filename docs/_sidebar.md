@@ -2,4 +2,6 @@
 * [Sale](sale.md)
 * [Storage](storage.md)
 * [Finance](finance.md)
+* [Service](customer-service.md)
+* [Marketing](marketing.md)
 * [Report](report.md)

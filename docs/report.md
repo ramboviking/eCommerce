@@ -43,15 +43,20 @@ Báo cáo tháng bao gồm các số liệu
     * Số lượt view
     * Số lượng tương tác
     * Số đơn hàng không hoàn thành
+    * Tỷ lệ chuyển đổi
+- Ngân sách
+    * Ngân sách đã chi trong tháng
+    * Phân bổ ngân sách cho các hoạt động, kênh
 
 ## **Yearly report**
-Báo cáo năm cũng sử dụng chỉ số **đơn hàng chính thức** đê tổng kết số liệu.
+Báo cáo năm tổng kết lại các số liệu và hoạt động đã thực hiện trong năm.
 - Tổng đơn hàng
 - Tổng doanh thu
 - Cơ cấu kênh bán hàng
 - Top sản phẩm
 - Tóm tắt các hoạt động đã triển khai trong năm
 - Tóm tắt chỉ số tiếp cận
+- Cơ cấu chi phí
 - Khó khăn, tồn động, những điều chưa thực hiện được
 - Định hướng hoạt động năm sau
 
