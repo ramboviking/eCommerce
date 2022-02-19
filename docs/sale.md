@@ -13,6 +13,11 @@ Bán hàng là nghiệp vụ quan trọng nhất của hoạt động thương m
     * Tiền
 
 - Đối với đơn hàng đặt qua sàn thì xác nhận bằng cách bấm vào nút "Xác nhận đơn hàng". Trường hợp người tiêu dùng đặt hàng lần đầu tiên (khách hàng mới) thì bắt buộc phải gọi điện thoại xác nhận trước khi bấm vào nút "Xác nhận đơn hàng". Đối với đơn hàng thứ 2 trở đi thì có thể bỏ qua bước gọi điện thoại.
+
+> [!TIP]
+> Nên bấm nút "Xác nhận đơn hàng" ngay sau khi gọi điện thoại xác nhận với khách.
+> Trường hợp xác định không cần gọi điện thoại thì bấm nút "Xác nhận đơn hàng" càng sớm càng tốt.
+
 3. Lập, in phiếu vận đơn
 Lập phiếu vận đơn đối với trường hợp đặt trực tiếp. Hằng ngày, lúc 9:00 AM in phiếu vận đơn và chuyển cho bộ phận quản lý hàng hóa để đóng gói.
 Thông tin chuyển giao gồm:
@@ -36,7 +41,11 @@ Khi bàn giao bắt buộc phải có mặt của 2 bên để xác nhận tình
 Giải quyết các vấn đề phát sinh đối với đơn hàng (đổi trả, hàng lỗi), trả lời phản hồi của khách hàng trên các tiện ích liên lạc với công ty (chat, email, SMS...).
 3. In đơn hàng, đóng gói  
 In các đơn đã chốt ngày hôm trước lúc 9:00 AM và tiến hành đóng gói lúc 10:00 AM.
-4. Tư vấn, chôt đơn  
+
+> [!TIP]
+> In lần 2 lúc 12:00 AM để shop đạt chứng nhận giao nhanh (Fast shipping).
+
+4. Tư vấn, chốt đơn  
 Liên lạc trực tiếp khách hàng bằng điện thoại để chốt tiếp những đơn mới của ngày hôm nay. Có thể phân bố khoảng thời gian tư vấn chốt đơn làm nhiều lần trong ngày.
 5. Chăm sóc khách hàng  
 Chủ động tương tác với khách hàng (đã mua hàng) bằng điện thoại, email để theo dõi tiến độ điều trị.
@@ -48,7 +57,7 @@ Giao hàng cho đối tác vận chuyển, kiểm kê, dự trù hàng hóa.
 Tổng kết báo cáo số liệu bán hàng và các số liệu khác.
 
 ## Đơn hàng gấp
-Nếu khách hàng có yêu cầu giao gấp thì cố gắng đáp ứng yêu cầu của khách trong khả năng. Phụ phí phát sinh trao đổi trước với khách hàng, nếu hai bên đạt được thỏa thuận thì tiến hành giao.
+Nếu khách hàng có yêu cầu giao gấp thì cố gắng đáp ứng yêu cầu của khách trong khả năng. Phụ phí phát sinh (sử dụng dịch vụ giao hàng tức thời) trao đổi trước với khách hàng, nếu hai bên đạt được thỏa thuận thì tiến hành giao.
 
 ## Bán hàng qua điện thoại
 Trường hợp bán hàng qua điện thoại thì vẫn tiến hành tiếp nhận đơn bình thường. Sau đó, tạo mã vận đơn trên phần mềm của bên vận chuyển.
