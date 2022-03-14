@@ -25,6 +25,9 @@ Thông tin chuyển giao gồm:
 - Số lượng đơn hàng của từng đối tác vận chuyển
 4. Đóng gói
 Đóng gói hàng hóa theo hướng dẫn của đối tác. Hàng hóa sau khi đóng gói thì phân loại theo đối tác vận chuyển, mỗi đối tác để riêng một khu vực và có dán nhãn rõ ràng, đồng thời ghi chú rõ số lượng tổng gói hàng của đối tác vận chuyển đó.
+
+Xem thêm [package](./package.md)
+
 5. Sẵn sàng giao hàng
 Chuyển trạng thái thành sẵn sàng giao hàng trên ứng dụng.
 6. Bàn giao cho đối tác vận chuyển
